@@ -3,3 +3,8 @@ __pycache__
 *.sqlite3
 env
 secret.md
+*.tfstate
+*.tfstate.*
+.terraform
+.terraform.*
+
